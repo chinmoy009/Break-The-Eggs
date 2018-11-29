@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1449758821 source:e:\chinmoy\project\3155\exit.cpp
+	<stdio.h>
+	"graphics.h"
+	"game.h"
+
+1449758607 e:\chinmoy\project\3155\game.h
+
+1449758693 source:e:\chinmoy\project\3155\game.cpp
+	<stdio.h>
+	"graphics.h"
+	"game.h"
+
+1449758607 source:e:\chinmoy\project\3155\main.cpp
+	<stdio.h>
+	"graphics.h"
+	"game.h"
+
+1449758703 source:e:\chinmoy\project\3155\menu.cpp
+	<stdio.h>
+	"graphics.h"
+	"game.h"
+
+1449758734 source:e:\chinmoy\project\3155\other.cpp
+	<stdio.h>
+	"graphics.h"
+	"game.h"
+
